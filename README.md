@@ -5,7 +5,10 @@
 3. Digitalent!
 4. Progate!
 
-Enjoy beautiful bakery website from our effort!
+### Enjoy beautiful bakery website from our effort!
+Click this link 
+https://muhammadkurniasani-me.github.io/unique_bakery.github.io/
+untuk mengunjungi website kami!
 
 ## Thanks To 
 Anggota Kami
