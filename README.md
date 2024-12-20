@@ -5,7 +5,8 @@
 3. Digitalent!
 4. Progate!
 
-[Preview](URL)
+[first-Preview](https://github.com/MuhammadKurniaSani-me/unique_bakery.github.io/blob/f63834b02fa442bf5433324e49ae01cef6a45dfe/first-preview.png)
+[second-Preview](https://github.com/MuhammadKurniaSani-me/unique_bakery.github.io/blob/f63834b02fa442bf5433324e49ae01cef6a45dfe/second-preview.png)
 
 ### Enjoy beautiful bakery website from our effort!
 Click this link [di sini](https://muhammadkurniasani-me.github.io/unique_bakery.github.io/)
