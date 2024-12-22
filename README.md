@@ -6,7 +6,7 @@
 4. Progate!
 
 ![first-Preview](https://github.com/MuhammadKurniaSani-me/unique_bakery.github.io/blob/20c9c0e281cb953e2df6ac2748a659314e418a5f/upper-preview.jpeg)
-![second-Preview](https://github.com/MuhammadKurniaSani-me/unique_bakery.github.io/blob/f63834b02fa442bf5433324e49ae01cef6a45dfe/second-preview.png)
+![second-Preview](https://github.com/MuhammadKurniaSani-me/unique_bakery.github.io/blob/a1043062749b2d47d394f7b030585bb159f4197e/second-preview.jpeg)
 
 ### Enjoy beautiful bakery website from our effort!
 Click this link [di sini](https://muhammadkurniasani-me.github.io/unique_bakery.github.io/)
